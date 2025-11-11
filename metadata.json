@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Code Review Agent",
+  "description": "A professional AI-powered code reviewer for your pull requests. Paste your code diff and get a comprehensive analysis focusing on quality, bugs, performance, and best practices.",
+  "requestFramePermissions": []
+}
